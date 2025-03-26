@@ -1,4 +1,4 @@
-## HIGSyn: A Multi-Granularity Network for Predicting Synergistic Drug Combinations
+## HIG-Syn: A Multi-Granularity Network for Predicting Synergistic Drug Combinations
 
 ### Model
 - Framework
